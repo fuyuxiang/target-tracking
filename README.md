@@ -6,7 +6,10 @@
 
 多目标实时追踪系统，支持结合视觉语言模型进行目标分类。
 
-https://github.com/user-attachments/assets/feffd9e6-836c-4be3-a71f-293af3429998
+
+
+https://github.com/user-attachments/assets/3ad9204a-c828-498b-a6e5-a8af8ea0abac
+
 
 ## 功能特性
 
