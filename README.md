@@ -1197,7 +1197,9 @@ mttrack --input video.mp4 --output result.mp4 --enhanced
 
 ## 许可证
 
-Apache License 2.0 - 详见 [LICENSE](LICENSE)
+本项目原创代码采用 [PolyForm Noncommercial License 1.0.0](LICENSE)，允许许可证规定的非商业用途。超出许可范围的商业用途需事先取得另行授权，请联系仓库维护者。
+
+第三方组件保留各自的许可证。此前已按其他许可证授予的权利不受本次更新影响。
 
 ---
 
